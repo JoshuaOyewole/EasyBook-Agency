@@ -26,8 +26,8 @@ http://www.templatemo.com/tm-509-hydro
 
   h1 {
     color: #292929;
-    font-size: 3em;
-    margin-bottom: 30px;
+    font-size: 4em;
+    margin-bottom: 10px;
   }
 
   h2 {
@@ -97,7 +97,7 @@ http://www.templatemo.com/tm-509-hydro
   .section-title h2 {
     margin-top: 0;
     margin-bottom: 10px;
-    line-height: 0;
+    line-height: 1.2;
   }
 
   .section-title .line-bar {
@@ -106,7 +106,9 @@ http://www.templatemo.com/tm-509-hydro
     font-size: 5em;
     line-height: 0;
   }
-
+  .subHeading{
+    color: #fff;
+  }
   .section-btn {
     background: #ce3232;
     border: 0;
@@ -319,7 +321,7 @@ http://www.templatemo.com/tm-509-hydro
   -----------------------------------------*/
 
   #home {
-    background: url('../images/home-bg.jpg') no-repeat center center;
+    background: url('../images/home-bg2.jpg') no-repeat center center;
     background-size: cover;
     vertical-align: middle;
     display: -webkit-box;
