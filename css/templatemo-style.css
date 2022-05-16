@@ -487,7 +487,9 @@ http://www.templatemo.com/tm-509-hydro
     opacity: 1;
   }
 
-
+.img-responsive{
+    height: auto !important;
+}
 
   /*---------------------------------------
       BLOG             
